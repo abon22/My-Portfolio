@@ -24,7 +24,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        s
+
         <header className="clearfix" id="home">
           <nav className="navbar navbar-default navbar-fixed-top" id="nav">
             <div className="container">
@@ -38,13 +38,11 @@ class App extends Component {
               </div>
               <div className="navbar-collapse collapse" id="navbar">
                 <ul className="nav navbar-nav social-list">
-                  <li><a href="https://github.com/akholod" target="_blank"><i className="fa fa-github fa-2x" title="GitHub" aria-hidden="true"></i>
+                  <li><a href="https://github.com/abon22" target="_blank"><i className="fa fa-github fa-2x" title="GitHub" aria-hidden="true"></i>
                   </a></li>
-                  <li><a href="https://codepen.io/akholod/#" target="_blank"><i className="fa fa-codepen fa-2x" title="Code Pen" aria-hidden="true"></i>
+                  <li><a href="https://www.linkedin.com/in/lito-abon-jr-365a64169" target="_blank"><i className="fa fa-linkedin fa-2x" title="LinkedIn" aria-hidden="true"></i>
                   </a></li>
-                  <li><a href="https://www.linkedin.com/in/andrey-kokhanevich-800814b5" target="_blank"><i className="fa fa-linkedin fa-2x" title="LinkedIn" aria-hidden="true"></i>
-                  </a></li>
-                  <li><a href="#fb"><i className="fa fa-facebook fa-2x" title="Facebook" aria-hidden="true"></i>
+                  <li><a href="https://www.facebook.com/abonlito"><i className="fa fa-facebook fa-2x" title="Facebook" aria-hidden="true"></i>
                   </a></li>
                 </ul>
                 <ul className="nav navbar-nav navbar-right">
@@ -62,11 +60,11 @@ class App extends Component {
             <div className="container">
               <div className="row">
                 <div className="col-md-offset-4 col-md-8 col-sm-12  banner-content">
-                  <h3>full stack web developer</h3>
+                  <h3>Web developer</h3>
                   <h1>
                     Personal portfolio webpage
                         </h1>
-                  <h3>Lito B Abon Jr</h3>
+                  <h3>Lito B. Abon Jr.</h3>
                 </div>
               </div>
               <div className="row">
@@ -84,15 +82,12 @@ class App extends Component {
               <div className="text-center about-content">
                 <h2>Hi there!</h2>
                 <img src="/about_me_edited.JPG" alt="about me" className="image-responsive img-circle img-thumbnail center-block" />
-                <p className="about-text">My name is Andrew, I am from Kharkiv, Ukraine. And I'm a beginner full stack web developer, currently I have some experience with HTML&Bootstrap, CSS&LESS, JS&Jquery, NodeJS&PHP. Now I practice in the development of web applications, and some frameworks like Angular, React etc. I want to learn more and utilize my skills in the field of Information Technology and to help solve real world challenges. I use: Git, Gulp, Bower, Npm, PhpStorm,Photoshop and Google).
+                <p className="about-text">As a graduate in Bachelors of Science and Information Technology, I have a passion for building and maintaining a website as my part-time job. As a Graphics designer and multimedia for mostly 6 months, we make a graphics layout, video editing and posted it on their website, social media or youtube for advertisement. I'm also a Certified Fiber Optic Technician, we handle fiber optic projects for most hotels and offices here in Manila and Cebu. I also know more about computer and hardware troubleshooting. SharePoint Developer is my full-time job, we created a custom form or feature to change the look and feel of the client perspective for social collaboration and for automation. I have some experience with HTML&Bootstrap, CSS, JS&Jquery, NodeJS&PHP. Now I practice in the development of web applications, and some frameworks like Angular, React etc. I want to learn more and utilize my skills in the field of Information Technology and to help solve real world challenges. I use: Git, Npm, Visual Studio Code, Photoshop and Google).
                     </p>
               </div>
             </div>
           </div>
         </section>
-
-
-
 
         <section className="works scroll" id="works">
           <div className="container">
@@ -199,13 +194,11 @@ class App extends Component {
           <div className="container">
             <h2>Social links</h2>
             <ul className="social-list">
-              <li><a href="https://github.com/akholod" target="_blank"><i className="fa fa-github fa-3x" title="GitHub" aria-hidden="true"></i>
+              <li><a href="https://github.com/abon22" target="_blank"><i className="fa fa-github fa-3x" title="GitHub" aria-hidden="true"></i>
               </a></li>
-              <li><a href="https://codepen.io/akholod/#" target="_blank"><i className="fa fa-codepen fa-3x" title="Code Pen" aria-hidden="true"></i>
+              <li> <a href="https://www.linkedin.com/in/lito-abon-jr-365a64169" target="_blank"><i className="fa fa-linkedin fa-3x" title="LinkedIn" aria-hidden="true"></i>
               </a></li>
-              <li> <a href="https://www.linkedin.com/in/andrey-kokhanevich-800814b5" target="_blank"><i className="fa fa-linkedin fa-3x" title="LinkedIn" aria-hidden="true"></i>
-              </a></li>
-              <li> <a href="#fb"><i className="fa fa-facebook fa-3x" title="Facebook" aria-hidden="true"></i>
+              <li> <a href="https://www.facebook.com/abonlito"><i className="fa fa-facebook fa-3x" title="Facebook" aria-hidden="true"></i>
               </a></li>
             </ul>
           </div>
@@ -225,20 +218,20 @@ class App extends Component {
               <div className="col-md-6">
                 <div className="contacts-data">
                   <i className="fa fa-paper-plane fa-2x"></i>
-                  <span className="contact-text">andrey.kokhanevich@gmail.com</span>
+                  <span className="contact-text">litoabonjr@gmail.com</span>
                 </div>
                 <div className="contacts-data">
                   <i className="fa fa-phone fa-2x"></i>
-                  <span className="contact-text">+380992404527</span>
+                  <span className="contact-text">+639163579098</span>
                 </div>
                 <div className="contacts-data">
                   <i className="fa fa-skype fa-2x"></i>
-                  <span className="contact-text">andrey.kokhanevich</span>
+                  <span className="contact-text">lito.abon</span>
                 </div>
               </div>
             </div>
             <p className="text-center">
-              ALL RIGHTS RESERVED. 2016
+              ALL RIGHTS RESERVED. 2018
             </p>
           </div>
         </footer>
